@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sitelink",
+    "type": "inputstring",
+    "name": "Site Link",
+    "value": "https://dxdhd.com/"
+  },
+  {
+    "id": "cookieheader",
+    "type": "hiddendata",
+    "name": "CookieHeader",
+    "value": "XSRF-TOKEN=eyJpdiI6IkpvT3M2QlFRYWh0YlpDbTJYXC9veU1BPT0iLCJ2YWx1ZSI6ImpwcWdpbms0VDU2ZU9ZQ1F0MW85Rk50VDRTeGZOVEpyVGxUNW5ndkg5MXNvRkRkYTVHM1M2Z1Ayd3BjUks3eloiLCJtYWMiOiI5YjljMTBlYWVjMzA2ZmEzYjA2MDkzYzliZWQ0MDMzZmJmMzQzYTZjOGJlMTZkMzA2Njk1YjM0ZWNiYzVmMDRiIn0%3D; laravel_session=eyJpdiI6ImIzQ3pwcmQza3MyNWpsVkhhMzFMYnc9PSIsInZhbHVlIjoiUmc1S3dRWExzNDdpSElKeGxZdGdEV1ExeUtla3lZUm9UeHRuM0pVUnBFRlRGU3RqV25OWlQxVmRJakRCOUNXNyIsIm1hYyI6ImUyNDQ2MDlkNzBlN2FjNDEzZDI0M2JiYjY2NmJkMTMxMmVmZmE5M2IyZWE2ZWNiYTk2ODA2ZTQyNDg4NWE4NWUifQ%3D%3D; remember_web_59ba36addc2b2f9401580f014c7f58ea4e30989d=eyJpdiI6IlpPK3AwVXAxZmdueVRXWlRBNlpOeXc9PSIsInZhbHVlIjoiWVB0bjBXb3JGMVlka0pyN2k4eDdPbXFUVGNpUmtBQlVLWjBUd3p1VEZtaTdEXC9IY2FneWdjWFwvQk4wR0o3QXRLZjF0SFYxQ3NBY2ZjRDNmV2lpY2QzQU80bXlrazJ6UjJUdkljWm43aUFCaGVhYndiWk1SSDZ5Q3lIeXRzXC9lRHVEWXVwUExDVldQbVRYck5TUjNYQTNrZUlkejlXcnVkbUxHVWhybFYxQ0YwPSIsIm1hYyI6Ijk0MmY5MDY2NmE1NGE4MmNlODExMmRmNzBjNWJkMDNkZDU3NDY4YmM2MGRkNDNhMjgxMGQ5MGQzMWY2NTE0YjUifQ%3D%3D"
+  },
+  {
+    "id": "lasterror",
+    "type": "hiddendata",
+    "name": "LastError",
+    "value": ""
+  },
+  {
+    "id": "username",
+    "type": "inputstring",
+    "name": "Username",
+    "value": "ManInTheSuit"
+  },
+  {
+    "id": "password",
+    "type": "inputstring",
+    "name": "Password",
+    "value": "CfDJ8JBiYxP6f4VBgbqCQ4SIR0WIyRQLoRYBcfbBH4PScNbP9DXM1K4bcMA86FrIyTZjufed1hOb6bZQaJ8Iio8jS6hKT5gegFXqrNEatasTiJluQHwSnaH_bLtvYWEcPHM1XA"
+  }
+]

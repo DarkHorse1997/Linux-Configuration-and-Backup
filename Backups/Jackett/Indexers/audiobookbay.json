@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sitelink",
+    "type": "inputstring",
+    "name": "Site Link",
+    "value": "http://audiobookbay.nl/"
+  },
+  {
+    "id": "cookieheader",
+    "type": "hiddendata",
+    "name": "CookieHeader",
+    "value": "PHPSESSID=klia2hhglm1abs6g2pmpi6hg73"
+  },
+  {
+    "id": "lasterror",
+    "type": "hiddendata",
+    "name": "LastError",
+    "value": ""
+  },
+  {
+    "id": "username",
+    "type": "inputstring",
+    "name": "Username",
+    "value": "ManInTheSuit"
+  },
+  {
+    "id": "password",
+    "type": "inputstring",
+    "name": "Password",
+    "value": "CfDJ8JBiYxP6f4VBgbqCQ4SIR0VI5W5IrihcY41aEcmR42UGkwo9BNxl_d16mUtKn5dWONj0_vJcZEu-KN4i0a252x0MbgnMybdrKtnjl96S5LM8C_P11hTZs_vTiIShMkjw0A"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sitelink",
+    "type": "inputstring",
+    "name": "Site Link",
+    "value": "https://worldofp2p.net/"
+  },
+  {
+    "id": "cookieheader",
+    "type": "hiddendata",
+    "name": "CookieHeader",
+    "value": "PHPSESSID=7c3lfdnv1kfd2307muhptraoj5"
+  },
+  {
+    "id": "lasterror",
+    "type": "hiddendata",
+    "name": "LastError",
+    "value": ""
+  },
+  {
+    "id": "username",
+    "type": "inputstring",
+    "name": "Username",
+    "value": "maninthesuit"
+  },
+  {
+    "id": "password",
+    "type": "inputstring",
+    "name": "Password",
+    "value": "CfDJ8JBiYxP6f4VBgbqCQ4SIR0XU4dzA_8_HMl99r_IcYY0FPiZNLCPZN8ujppzf0zg6MIdesXFV0HvOaCaK3YFjfiuGsCLiKdUHcSKwF9PWfCozPvzKKcLLqChLmQdnunlhxQ"
+  }
+]

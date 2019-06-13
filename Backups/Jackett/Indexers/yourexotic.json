@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sitelink",
+    "type": "inputstring",
+    "name": "Site Link",
+    "value": "https://exoticaz.to/"
+  },
+  {
+    "id": "cookieheader",
+    "type": "hiddendata",
+    "name": "CookieHeader",
+    "value": "__cfduid=d48a6516404ba981ae3fa2b471e94a5421560118084; XSRF-TOKEN=eyJpdiI6Ik9cL3RubUtPQUFicks1STdrbHZvWGNnPT0iLCJ2YWx1ZSI6IktFZk9yXC90SUJwUEhYdmd4cVh4Y0RJMlRlYzh0SUlFQzNHSDRZTmIwb3ViaGNtXC9TMzdwUjVXOVBQaTdoc1RhYiIsIm1hYyI6ImFlZTliMmUwMjAwYmY5MGE0NDI2OTdhNWQxMDE4OTBjNzQ1ZjFhODI0NWMyZTRjYzE5NTI5ZGViMzg3M2YwNjYifQ%3D%3D; exoticaz_session=eyJpdiI6IjhESlRUUU03VWxLU3BXZENXRjJpcHc9PSIsInZhbHVlIjoiTmxXTVNvY0ppMzFiYnpJUXZQcGU4REg3aUVPam9TZnc4OHBEMHBvMkNIU1g0QnVqaXlBZU1MbnVybFZVaHlaTCIsIm1hYyI6IjY5ZGU1MGE1OWYwMDE5MzcyMDY3NWJiZDU0MThiYTExOTMyZTk0MDI2ZWVmNTg2YjgzOTUyZGM3Yjg4MWMyZjMifQ%3D%3D; remember_web_59ba36addc2b2f9401580f014c7f58ea4e30989d=eyJpdiI6IkFFRkltTStZdUtONWdVME90OEtDZ0E9PSIsInZhbHVlIjoiWEE4VVdDQUZucWZ4dnd1Y2c0YXBtZVZ4V3ZjaDBLcUlxVVAxMHo0TWtyWHdXQk1cL0M4MVR2SCtZdlE4dURuMk91ayt3WEpNNE9nbUx6VFN5clpkUVNGc0RaZTlYYjRleHBncmRhTWJjcEMySUh4bnVET3o1Y0tcL3JaMFRpdW5Pc3FlWXZFb3l0ZHZab2ZmZjNaMzRnNDZhdkV2WFlTUXA5UGZRUTB1aUpIM1k9IiwibWFjIjoiNzQzYjU5YTNmMjMwMjM5YjcxMDFhNzYyYjE1NDEzZWFjMTJmZTlhZTlmZTQ2OGIxMWU3NzhjZWRhZWY0OWY0MSJ9; love=72163"
+  },
+  {
+    "id": "lasterror",
+    "type": "hiddendata",
+    "name": "LastError",
+    "value": ""
+  },
+  {
+    "id": "username",
+    "type": "inputstring",
+    "name": "Username",
+    "value": "maninthesuit2015"
+  },
+  {
+    "id": "password",
+    "type": "inputstring",
+    "name": "Password",
+    "value": "CfDJ8JBiYxP6f4VBgbqCQ4SIR0X3e64IZKRciLj4yNC5SXOppww5nGM7X5uXs8jyN8tFblS_zih4_0jiLNta1ojHH4bQLBgK8SiP0XnQz8WsUT_Lla5eabCMdbjmUzSV3pyalQ"
+  }
+]

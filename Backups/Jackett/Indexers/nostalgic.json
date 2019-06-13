@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sitelink",
+    "type": "inputstring",
+    "name": "Site Link",
+    "value": "https://nostalgic.to/"
+  },
+  {
+    "id": "cookieheader",
+    "type": "hiddendata",
+    "name": "CookieHeader",
+    "value": "cid=5%ECc%5D%A6%AA%AF%F3x%DF%3E%5C%E8aF%97z1%C7%8B%E4a%14%D2%24%B5%28%D1%21%D6%92%E8%AF%E3%F5%60%B7%91E%15f%E8%0D%8A%D1C%3CO%BE%1E%A6%AD%3E%EA8%F5%E7%D7%AC%81%7D%C12%3E"
+  },
+  {
+    "id": "lasterror",
+    "type": "hiddendata",
+    "name": "LastError",
+    "value": ""
+  },
+  {
+    "id": "username",
+    "type": "inputstring",
+    "name": "Username",
+    "value": "maninthesuit2015"
+  },
+  {
+    "id": "password",
+    "type": "inputstring",
+    "name": "Password",
+    "value": "CfDJ8JBiYxP6f4VBgbqCQ4SIR0U5B4GKw7LKmupu_pATzZ5cjmTcrc1KVdLM57TGHYTLbilP1-6Pk1E6Ad0EdvL061FsNymYQkP30jeG-CORy4t6NuPmXd6S9xK7nrYM4BMYVw"
+  }
+]

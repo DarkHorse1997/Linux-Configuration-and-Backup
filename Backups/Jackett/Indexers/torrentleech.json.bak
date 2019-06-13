@@ -1,0 +1,45 @@
+[
+  {
+    "id": "sitelink",
+    "type": "inputstring",
+    "name": "Site Link",
+    "value": "https://www.torrentleech.org/"
+  },
+  {
+    "id": "username",
+    "type": "inputstring",
+    "name": "Username",
+    "value": "ManInTheSuit2015"
+  },
+  {
+    "id": "password",
+    "type": "inputstring",
+    "name": "Password",
+    "value": "CfDJ8JBiYxP6f4VBgbqCQ4SIR0VS5BWHLtS_iCG72M_H1W4i6xobxIgeVEp2xYuNELI32QMpvNMyTLgioTCEgUt4EKbnGFSQUispXdIWVk5OLg-fob_Kupb-UQoPbMWTdzHkpQ"
+  },
+  {
+    "id": "recaptcha",
+    "type": "recaptcha",
+    "name": "Recaptcha",
+    "sitekey": null,
+    "version": "2"
+  },
+  {
+    "id": "",
+    "type": "displayinfo",
+    "name": "",
+    "value": "For best results, change the 'Default Number of Torrents per Page' setting to the maximum in your profile on the TorrentLeech webpage."
+  },
+  {
+    "id": "cookieheader",
+    "type": "hiddendata",
+    "name": "CookieHeader",
+    "value": "__cfduid=dbde8fa89f051728a2ea1f65a325448951560116788; PHPSESSID=515drr9b1j5s34inc1jdgg6s16; member_id=911950; pass_hash=2c29e6a61fc1008208af75997912ae5f; tluid=1667933; tlpass=0b1a5d54d4676593775da938b5a3254f40b1a8ef; lastBrowse1=1560420768; lastBrowse2=1560421728"
+  },
+  {
+    "id": "lasterror",
+    "type": "hiddendata",
+    "name": "LastError",
+    "value": null
+  }
+]

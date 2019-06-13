@@ -1,0 +1,38 @@
+[
+  {
+    "id": "sitelink",
+    "type": "inputstring",
+    "name": "Site Link",
+    "value": "https://bakabt.me/"
+  },
+  {
+    "id": "username",
+    "type": "inputstring",
+    "name": "Username",
+    "value": "ManInTheSuit2015"
+  },
+  {
+    "id": "password",
+    "type": "inputstring",
+    "name": "Password",
+    "value": "CfDJ8JBiYxP6f4VBgbqCQ4SIR0XbiX7R1phVlmp3pWez3VNSltCYNxPywWFJju_rPqgoReznC4rbyPmyfMLzQhdyOFZc8h5Dep80FEBoFjLgj3M-WI_p61iCDFleFpOn2U3Kdg"
+  },
+  {
+    "id": "",
+    "type": "displayinfo",
+    "name": "",
+    "value": null
+  },
+  {
+    "id": "cookieheader",
+    "type": "hiddendata",
+    "name": "CookieHeader",
+    "value": "bbtid=57hs0c5ac8hodgk2312hprb8p4; captchaRequired=0; __cfduid=d32e6dde59d7508bfc4bca41e2f65c4a41560118721"
+  },
+  {
+    "id": "lasterror",
+    "type": "hiddendata",
+    "name": "LastError",
+    "value": ""
+  }
+]

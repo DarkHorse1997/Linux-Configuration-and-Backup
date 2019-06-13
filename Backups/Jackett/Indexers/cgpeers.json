@@ -1,0 +1,44 @@
+[
+  {
+    "id": "sitelink",
+    "type": "inputstring",
+    "name": "Site Link",
+    "value": "https://www.cgpeers.com/"
+  },
+  {
+    "id": "username",
+    "type": "inputstring",
+    "name": "Username",
+    "value": "darkhorse1997"
+  },
+  {
+    "id": "password",
+    "type": "inputstring",
+    "name": "Password",
+    "value": "CfDJ8JBiYxP6f4VBgbqCQ4SIR0Xr-Nxdg7vn9OWjAQqpa4nWhBljzB2yPqCEo9O7cftFWMTohT38z2dOtTHIvmMtu-66HbcHMfRyEaNud3NyQJ1Ta5UBVXB2OUBw3C4NTMCD3g"
+  },
+  {
+    "id": "",
+    "type": "displayinfo",
+    "name": "",
+    "value": null
+  },
+  {
+    "id": "cookieheader",
+    "type": "hiddendata",
+    "name": "CookieHeader",
+    "value": "theme=default; torrentsort=34667; updated=20190609214555; startpage=index.php; torrentlist=808118; lastrefresh=808096; session=%2BU1XJSGkJSo7rkSdsOhw4%2FHVpBoLOqvYNMxF7u%2FidDaGa0EsLfdpi7%2B8TZZZ60YMPqXHHr%2BCd2Cy16%2FvATdqDO79eAwduB%2FkZXBnDJiSJeCKWCMWVbEX%2F4BHowLN3qJ5QQixSSoWMFfMW8VYGT3%2B6A%3D%3D"
+  },
+  {
+    "id": "lasterror",
+    "type": "hiddendata",
+    "name": "LastError",
+    "value": ""
+  },
+  {
+    "id": "usefreeleechtokenswhenavailable",
+    "type": "inputbool",
+    "name": "Use Freeleech Tokens when available",
+    "value": true
+  }
+]

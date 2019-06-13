@@ -1,0 +1,38 @@
+[
+  {
+    "id": "sitelink",
+    "type": "inputstring",
+    "name": "Site Link",
+    "value": "https://avistaz.to/"
+  },
+  {
+    "id": "username",
+    "type": "inputstring",
+    "name": "Username",
+    "value": "maninthesuit2015"
+  },
+  {
+    "id": "password",
+    "type": "inputstring",
+    "name": "Password",
+    "value": "CfDJ8JBiYxP6f4VBgbqCQ4SIR0VDZQ8x2s2cOR3Tt2YbXG5sO-wLyLhKchHd8JJURc9XVsrjEqKT6gcWPQ_xdGlVIB1jKyCKJgZJ2EsFNU6Q0zmowPWfhuXHgmFeuvnHP8pNHg"
+  },
+  {
+    "id": "",
+    "type": "displayinfo",
+    "name": "",
+    "value": null
+  },
+  {
+    "id": "cookieheader",
+    "type": "hiddendata",
+    "name": "CookieHeader",
+    "value": "__cfduid=dfa9bde76b3c81d983d66296105a151d61560118024; XSRF-TOKEN=eyJpdiI6IkViQXZzbjJQM0owN0EwV1dFZXErTlE9PSIsInZhbHVlIjoiU2h2ZWxoZmVUS3dITTUyVGtFeEl3V1N6eVNKVDJVbHRCS1NFMitXOGVaTXdLYmVWeFBLMnJnSmp0R09qVDhjZW43UWg5cWpiWWVmU05TMytsY01hZ0E9PSIsIm1hYyI6ImRjMzYxNjI3MjFhNWMwZGY3NDlmNzZjOGMyZGI4NzBjMWJhMWQxNjkyNjhjYjgxZmM4NjIzNjZiZjdmYTYyMWEifQ%3D%3D; avistazx_session=eyJpdiI6Ik1Nc2FsbVwvb2lJczVwZzVaOHNHdVhRPT0iLCJ2YWx1ZSI6Ikw4cjFOVzhzQXhjd3RicXVJaFdpd2ZXNGFDeVJUNzV6YUtVOHpXM2xmd0lqSmFURnJcL2pqbXBuTGQzaFluV3IzZWJRUE5OMmIxZUtWQk8ydnlGNkhTUT09IiwibWFjIjoiY2FmZDUyMWRiNjU1MTNmYjg2OWZkZDFkMGQ0ZGQwZDEyNjY4ZTIwMGFlM2MwZDQ5ZDM1ZGQyMTlhMTcyYzgxNyJ9; remember_web_59ba36addc2b2f9401580f014c7f58ea4e30989d=eyJpdiI6Ik1cL3VwZnZNR1hTekJacDhJM3hiaWdRPT0iLCJ2YWx1ZSI6IldHV20wS0FRV0hsUjNtcGNZdnpLcnNqWE45WHFcLzJkVUpvUVBkWTZDNTBqUEV1SnBuVW15VXk4Z0x6eEozS1pRTldRd0YxNGk1R0RvZ3RHMXF6eE5taTZWYkZsR2FkbkZGS0g0MmtDXC9MT3M9IiwibWFjIjoiNjExMzllZTJiNWFjOTVkNGZlODc2NjYxZGRhMjg5Zjk0ZGM0NTlkMmI2MjljMTJhYzAzNmNkYWE4MWVmMTIxZCJ9; love=eyJpdiI6IlE0N2Zrc0IxVHROVXNkUklyMDV4QWc9PSIsInZhbHVlIjoiejFoSFZ1U0kwR3VUZU00ZmJEMG1PUT09IiwibWFjIjoiMzRkNmZlOWQ2YTMwMmZmNjI3NWIyY2I1NTMyZjI3ZDI1M2U5NjA5N2U5ZjU4ZTc0ZjhhNDI0MjMyZjFmNjYwMiJ9"
+  },
+  {
+    "id": "lasterror",
+    "type": "hiddendata",
+    "name": "LastError",
+    "value": ""
+  }
+]

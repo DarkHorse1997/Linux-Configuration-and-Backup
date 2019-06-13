@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sitelink",
+    "type": "inputstring",
+    "name": "Site Link",
+    "value": "https://asiancinema.me/"
+  },
+  {
+    "id": "cookieheader",
+    "type": "hiddendata",
+    "name": "CookieHeader",
+    "value": "__cfduid=d333a19c055b5ec7a074a15c6a51d68291560116406; XSRF-TOKEN=eyJpdiI6Ikp1ZThlSEYyaU9tS3dNNDY5OTNaK0E9PSIsInZhbHVlIjoiNmZDWUh0STRRR0ZwaFFoRWNNM2pzOWlqRTFYcjMybFB5SURIXC80eXJxS3lYeEhVS09xeURPdmlrVEtLR3ZGTXkiLCJtYWMiOiI3ZGM2YjZkYjI3NzIxNzBkMjI2NGQ4NGRmZGU5ZGM2ZDA0MWZjNzY0ODQxYWJkMTBjMjhiYjhmZjk4MDg1MGMyIn0%3D; laravel_session=eyJpdiI6IlI4ZkhFekIzWmlNQmZxNUtWU2RaM2c9PSIsInZhbHVlIjoiU0xQUEladDYyXC9KZkdGaFY3MWpYU2JHMktKYmJ0OEF1amhkNkgwYnlQN3kwOHV5U2FyVEw1RjE1RXh3YUNYMGMiLCJtYWMiOiIxNTY2ZGNhNDc3ZWE5Nzk4N2ZhNDc0MDRmNGRiNjUzZTk1ZjA4NjYyMjFhYWY3NDg4NmY0MzZjZjFmMTdiZWEzIn0%3D; remember_web_59ba36addc2b2f9401580f014c7f58ea4e30989d=eyJpdiI6IlRLYjhMcythd0FsYjhoWVBEN1I2XC9RPT0iLCJ2YWx1ZSI6Ijg5WWNPaUg1SVBNNlBuWmVibUxEN2xHYTA4OGZMdWFoWWFiXC91SXRTc2ZhMENBUmdHbW4xd0dzUEVxTFpmWGE3TkJMRG9BMGxBYW5CZmxZZmpLVCs1QnJ0QldKeE1HdzFLUEltcm00bXY5eFl3SHJiRU0wQVlwSzUzZFZFZ25tVWw1UGlHXC84ZGtZRTRjdmZxUnZjeG96SzZtaXBoVGRqVzhZTTRCdkdyWFBnPSIsIm1hYyI6ImJkNTE1MjY4NTRmOGQwMjM5YjE1YTdiYzFkY2NlM2FjMzlkODE0ZjA0MGQwZTYxYjhkNzI3NjllYmUzN2Y0MjQifQ%3D%3D"
+  },
+  {
+    "id": "lasterror",
+    "type": "hiddendata",
+    "name": "LastError",
+    "value": ""
+  },
+  {
+    "id": "username",
+    "type": "inputstring",
+    "name": "Username",
+    "value": "ManInTheSuit"
+  },
+  {
+    "id": "password",
+    "type": "inputstring",
+    "name": "Password",
+    "value": "CfDJ8JBiYxP6f4VBgbqCQ4SIR0XX3MdpKXIkm8huCaow6wksGRH7EhER5vFBklovZdrjZHWT_YtYmHSaBdiO4-1aAd_XSV3PRwCENPa9XWQLzt5Df-NANwTV8BOsWv9ZxTFvbg"
+  }
+]

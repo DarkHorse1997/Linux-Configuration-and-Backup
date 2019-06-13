@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sitelink",
+    "type": "inputstring",
+    "name": "Site Link",
+    "value": "https://audionews.org/"
+  },
+  {
+    "id": "cookieheader",
+    "type": "hiddendata",
+    "name": "CookieHeader",
+    "value": "__cfduid=d79bd02e2f5070c3fba10a50999105aff1560116600; bbt_data=a%3A3%3A%7Bs%3A2%3A%22uk%22%3Bs%3A12%3A%22XHvFioX0fRmQ%22%3Bs%3A3%3A%22uid%22%3Bi%3A638217%3Bs%3A3%3A%22sid%22%3Bs%3A20%3A%22K3Gu1vIg1ZlyCkz0ZB1D%22%3B%7D; adl=maninthesuit2015"
+  },
+  {
+    "id": "lasterror",
+    "type": "hiddendata",
+    "name": "LastError",
+    "value": ""
+  },
+  {
+    "id": "username",
+    "type": "inputstring",
+    "name": "Username",
+    "value": "maninthesuit2015"
+  },
+  {
+    "id": "password",
+    "type": "inputstring",
+    "name": "Password",
+    "value": "CfDJ8JBiYxP6f4VBgbqCQ4SIR0UXn_bIS_is6yNya_l2xvfLkO0zVPf2W1X4z5gLavswL9wVY7sy0RIMCk9PPJxH0JjKdGVDSJ_jPgglrbJERn3sJfpZKCQwbYoyXBDENYEiqA"
+  }
+]

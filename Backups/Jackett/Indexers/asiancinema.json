@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sitelink",
+    "type": "inputstring",
+    "name": "Site Link",
+    "value": "https://asiancinema.me/"
+  },
+  {
+    "id": "cookieheader",
+    "type": "hiddendata",
+    "name": "CookieHeader",
+    "value": "__cfduid=d41331ccc3c3077d8b7dbf76f1f53bc381560116772; XSRF-TOKEN=eyJpdiI6Iks5RlpXM0VUdytIQklETFIzQ3BEWEE9PSIsInZhbHVlIjoiQk5CeGlCK0R3WFI4cUM4V3dNclNDb0dDbjBadnlNYm80RElnS1pDZmtxclJNWk5hWm5ITDBWTVZxMzdWc2VwMyIsIm1hYyI6ImYzYWJkNTJjZjEyZThkNDJkODEzOGQxZjgxZDI5NzY3OTViZTAwMDA4OTA5MGUyNjliMTNmYTBkZDZlN2NjYTgifQ%3D%3D; laravel_session=eyJpdiI6InI0Z2xVbGVLU0UrUkx3cjZTazN6WWc9PSIsInZhbHVlIjoiM2Z4TlU4XC9JWnJcL3hEYnpOamxqT2xmK0FkODh1aEdHcFNFOWJIK09DaWpTXC9YNjIrazN0b1VXSmJiaWxnSTJCbCIsIm1hYyI6IjEwMzMzMDg3NmJjMTJhMDAyZTI0OTQ1Y2YzMDhjMWExMWFiMDMzZjI0ZDFhMDNmZDdiNThlM2E2YjBiNGM5MGYifQ%3D%3D"
+  },
+  {
+    "id": "lasterror",
+    "type": "hiddendata",
+    "name": "LastError",
+    "value": ""
+  },
+  {
+    "id": "username",
+    "type": "inputstring",
+    "name": "Username",
+    "value": "ManInTheSuit"
+  },
+  {
+    "id": "password",
+    "type": "inputstring",
+    "name": "Password",
+    "value": "CfDJ8JBiYxP6f4VBgbqCQ4SIR0USrZTwE8mIcSOkn9HfhALr1ervQGhiNb5U2ogb55lYwgQK84xKxIcjzVE2tNQEN7U2xguaaf8qhOuu5VOY1pO6I8l5dYRfaNZRe7-QE2UeEg"
+  }
+]

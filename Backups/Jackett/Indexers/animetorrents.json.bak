@@ -1,0 +1,38 @@
+[
+  {
+    "id": "sitelink",
+    "type": "inputstring",
+    "name": "Site Link",
+    "value": "https://animetorrents.me/"
+  },
+  {
+    "id": "username",
+    "type": "inputstring",
+    "name": "Username",
+    "value": "maninthesuit2015"
+  },
+  {
+    "id": "password",
+    "type": "inputstring",
+    "name": "Password",
+    "value": "CfDJ8JBiYxP6f4VBgbqCQ4SIR0WtKWzVRSxLlyVBHGHdERkDBHVMmPonbAL1t9VzJNeVgu3B0X8Dr8JsjGgxeK8A344fwUeQnPSxfezca244YOFYCFOAtAyQm1PElJJW8Ut3pw"
+  },
+  {
+    "id": "",
+    "type": "displayinfo",
+    "name": "",
+    "value": null
+  },
+  {
+    "id": "cookieheader",
+    "type": "hiddendata",
+    "name": "CookieHeader",
+    "value": "__cfduid=d87c4753ac59b09bbee095df5aa6b96991560116029; ANT=i4ac6gb4l4jhi3rmdc7g8tpsm7; XTZUID=706706; XTZ_USERNAME=maninthesuit2015; XTZ_PASSWORD=3d00c9bca65dd2adcd8c978c68199b16"
+  },
+  {
+    "id": "lasterror",
+    "type": "hiddendata",
+    "name": "LastError",
+    "value": ""
+  }
+]
