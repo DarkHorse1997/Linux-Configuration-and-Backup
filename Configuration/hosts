@@ -1,0 +1,17 @@
+127.0.0.1	localhost
+127.0.1.1	debian
+10.0.0.1        Router
+10.0.0.2        Honor
+10.0.0.3        Laptop-Kubuntu
+10.0.0.4        Redmi
+10.0.0.6        Jiophone
+10.0.0.7        RedmiGo
+10.0.0.8        Asus
+10.0.0.9        FireStick
+10.0.0.10       Motorola
+10.0.0.11       Tablet
+
+# The following lines are desirable for IPv6 capable hosts
+::1     localhost ip6-localhost ip6-loopback
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
